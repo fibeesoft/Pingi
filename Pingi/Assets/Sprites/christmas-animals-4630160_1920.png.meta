@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: dbed712b2b6ad13459ce2c915d39bedd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2213774145316327513
+    second: christmas-animals-4630160_1920_0
+  - first:
+      213: -5839023359946322049
+    second: christmas-animals-4630160_1920_1
+  - first:
+      213: 8199684227000071370
+    second: christmas-animals-4630160_1920_2
+  - first:
+      213: 1273379578499156189
+    second: christmas-animals-4630160_1920_3
+  - first:
+      213: 8472359049477852627
+    second: christmas-animals-4630160_1920_4
+  - first:
+      213: -375277112866778732
+    second: christmas-animals-4630160_1920_5
+  - first:
+      213: 7886928212235944008
+    second: christmas-animals-4630160_1920_6
+  - first:
+      213: -5978705989167191714
+    second: christmas-animals-4630160_1920_7
+  - first:
+      213: -8268505757145497236
+    second: christmas-animals-4630160_1920_8
+  - first:
+      213: -8556668005944858446
+    second: christmas-animals-4630160_1920_9
+  - first:
+      213: 1400910144014986610
+    second: christmas-animals-4630160_1920_10
+  - first:
+      213: 5511860435813617805
+    second: christmas-animals-4630160_1920_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 392
+        width: 294
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d330bd7cbbea4ea6b86f32e0ba139
+      internalID: -2213774145316327513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 392
+        width: 244
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33bb94283b06044b221449b99bedfe
+      internalID: -5839023359946322049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 376
+        width: 233
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd15e6446402d438e52336e2350f37
+      internalID: 8199684227000071370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 392
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ded39c0e4333184d8d9311244c88ba4
+      internalID: 1273379578499156189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_4
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 424
+        width: 272
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806f7131c28a1e7408860e1d13b0976e
+      internalID: 8472359049477852627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_5
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 414
+        width: 249
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d918a491dc64304689e8b5c209d5779
+      internalID: -375277112866778732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 278
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405df05e75fa90740bc3241641a158b4
+      internalID: 7886928212235944008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 291
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628de52df945428419cf3241028d121c
+      internalID: -5978705989167191714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 28
+        width: 278
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40e6ac2740b63c4dad8298526d6141f
+      internalID: -8268505757145497236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_9
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 28
+        width: 228
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ef4c388b8e0542a402ab678e8fd48
+      internalID: -8556668005944858446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_10
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 19
+        width: 274
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f349c03e59e252d488f0e10ac7886b1a
+      internalID: 1400910144014986610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-animals-4630160_1920_11
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 12
+        width: 284
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508ef6e0b7d4c6a44a9c0b2293680d56
+      internalID: 5511860435813617805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: f058390df7c550647aac5d00d156d999
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4118537211781950777
+    second: christmas-stocking-3774075_1920_0
+  - first:
+      213: -4991852431288353959
+    second: christmas-stocking-3774075_1920_1
+  - first:
+      213: 2612028663331172348
+    second: christmas-stocking-3774075_1920_2
+  - first:
+      213: 820720423698285021
+    second: christmas-stocking-3774075_1920_3
+  - first:
+      213: -7202864378437056967
+    second: christmas-stocking-3774075_1920_4
+  - first:
+      213: -9147529013258260435
+    second: christmas-stocking-3774075_1920_5
+  - first:
+      213: 5536119601118677635
+    second: christmas-stocking-3774075_1920_6
+  - first:
+      213: 9079328367713581485
+    second: christmas-stocking-3774075_1920_7
+  - first:
+      213: 4970112499894016232
+    second: christmas-stocking-3774075_1920_8
+  - first:
+      213: -3439191928319972810
+    second: christmas-stocking-3774075_1920_9
+  - first:
+      213: 3011424000683142930
+    second: christmas-stocking-3774075_1920_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1348
+        width: 381
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1ea1beb395d5640a9d200c38e059d4
+      internalID: -4118537211781950777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1348
+        width: 441
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb2106bb730e94468ca33bd29a19d66
+      internalID: -4991852431288353959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_2
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1348
+        width: 384
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd014ea65794b4c9f42cb161a6dc2c
+      internalID: 2612028663331172348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_3
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1348
+        width: 384
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146372ac7f659174196e1b69f80450e9
+      internalID: 820720423698285021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 680
+        width: 421
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309804837cc9e97468d734bda744436a
+      internalID: -7202864378437056967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 680
+        width: 422
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb8f7aaabf0104d954ec7d4a5d245e
+      internalID: -9147529013258260435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_6
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 680
+        width: 428
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f83a1e58dcebc42a165696a5b6b90a
+      internalID: 5536119601118677635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 264
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62e88f747213d74881c4b48a07d0124
+      internalID: 9079328367713581485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 11
+        width: 267
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b897bf77dc43d742a0a63dc82d5bc2f
+      internalID: 4970112499894016232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_9
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 11
+        width: 268
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba0cfa968f5fc440b64a4b00d9204ad
+      internalID: -3439191928319972810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas-stocking-3774075_1920_10
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 11
+        width: 421
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2e9985be268e648a676596120eab7f
+      internalID: 3011424000683142930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
